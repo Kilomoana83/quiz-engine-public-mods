@@ -1,0 +1,7 @@
+<QuizMetaData>
+	<Name>SBF-See</Name>
+	<Language>de_DE</Language>
+	<LoaderName>XmlLoader</LoaderName>
+	<TypeToLoad>DefaultNamespace.QuestionsXml</TypeToLoad>
+	<Controller>Code.Quiz.QuizQuestionsAndAnswersController</Controller>
+</QuizMetaData>
