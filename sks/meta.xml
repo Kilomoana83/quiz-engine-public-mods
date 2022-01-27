@@ -1,7 +1,7 @@
 <QuizMetaData>
     <Name>SKS</Name>
     <Language>de_DE</Language>
-    <LoaderName>XmlFileSystemLoader</LoaderName>
+    <LoaderName>XmlGitRepositoryLoader</LoaderName>
     <TypeToLoad>DefaultNamespace.QuestionsXml</TypeToLoad>
     <Controller>Code.Quiz.Controllers.QuizUserFreeTextAnswersController</Controller>
 </QuizMetaData>
